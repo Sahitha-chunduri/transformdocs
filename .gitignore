@@ -18,5 +18,3 @@ storage/
 .DS_Store
 Thumbs.db
 
-# Config files with sensitive info
-config.py
